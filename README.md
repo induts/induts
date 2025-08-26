@@ -31,5 +31,5 @@ Both are under active development and will be released once the first versions a
 ---
 
 ### 🤝 Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/indu-thekkemeppilly-sivakumar/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/induts/)  
 - 📝 Publications in prep: Hydrology (Cornell thesis) + Air Quality anomaly detection (UC Davis)  
